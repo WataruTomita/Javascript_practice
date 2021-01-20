@@ -1,9 +1,3 @@
-var alertString;
-alertString = addString("WebCamp");
+var promptStr = prompt('何か好きな文字を');
 
-alert(alertString);
-
-function addString(strA){
-  var addStr = "Hello " + strA;
-  return addStr;
-}
+alert(promptStr);
