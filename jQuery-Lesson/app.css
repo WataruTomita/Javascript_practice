@@ -1,8 +1,18 @@
 .box1 {
-  background-color: #ff0000;
+  background-color: #ffffff;
   height: 200px;
   width: 200px;
+  float: left;
 }
-.box1-ext {
-  border: 10px solid black;
+.bg1 {
+  background-color: #ffaaaa;
+}
+.bg2 {
+  background-color: #ffbbbb;
+}
+.bg3 {
+  background-color: #ffcccc;
+}
+.bg4 {
+  background-color: #ffdddd;
 }
